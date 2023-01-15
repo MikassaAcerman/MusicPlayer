@@ -1,0 +1,16 @@
+G:\Users\Administrator\Desktop\Music Player\Music Player\bin\Debug\Music Player.exe.config
+G:\Users\Administrator\Desktop\Music Player\Music Player\bin\Debug\Music Player.exe
+G:\Users\Administrator\Desktop\Music Player\Music Player\bin\Debug\Music Player.pdb
+G:\Users\Administrator\Desktop\Music Player\Music Player\bin\Debug\Interop.WMPLib.dll
+G:\Users\Administrator\Desktop\Music Player\Music Player\bin\Debug\AxInterop.WMPLib.dll
+G:\Users\Administrator\Desktop\Music Player\Music Player\obj\Debug\Music Player.csprojResolveAssemblyReference.cache
+G:\Users\Administrator\Desktop\Music Player\Music Player\obj\Debug\Interop.WMPLib.dll
+G:\Users\Administrator\Desktop\Music Player\Music Player\obj\Debug\AxInterop.WMPLib.dll
+G:\Users\Administrator\Desktop\Music Player\Music Player\obj\Debug\Music Player.csproj.ResolveComReference.cache
+G:\Users\Administrator\Desktop\Music Player\Music Player\obj\Debug\Music_Player.Form1.resources
+G:\Users\Administrator\Desktop\Music Player\Music Player\obj\Debug\Music_Player.Properties.Resources.resources
+G:\Users\Administrator\Desktop\Music Player\Music Player\obj\Debug\Music_Player.Text_To_Speech.resources
+G:\Users\Administrator\Desktop\Music Player\Music Player\obj\Debug\Music Player.csproj.GenerateResource.Cache
+G:\Users\Administrator\Desktop\Music Player\Music Player\obj\Debug\Music Player.exe
+G:\Users\Administrator\Desktop\Music Player\Music Player\obj\Debug\Music Player.pdb
+G:\Users\Administrator\Desktop\Music Player\Music Player\obj\Debug\Music_Player.Help.resources
